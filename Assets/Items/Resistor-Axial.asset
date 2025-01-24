@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40d7693a44b8bb043b43aa51aafc3429, type: 3}
+  m_Name: Resistor-Axial
+  m_EditorClassIdentifier: 
+  id: 7
+  sprite: {fileID: 21300000, guid: 2c216514eac03a042b3791aabeb9f771, type: 3}
+  prefab: {fileID: 8534886432327405845, guid: ad9b97a2fe592f8418fa03046d3697fc, type: 3}
+  description: 'Resistor (Axial):
+
+
+    An axial resistor is a passive electrical
+    component that opposes the flow of electric current.
+
+    It consists of a cylindrical
+    resistive wire with metal caps and wire leads on both ends.
+
+    The resistance
+    is determined by the material, length, and cross-section of the wire.
+
+    Color
+    bands on the body represent the resistor''s value and tolerance using a color
+    code.
+
+    Axial resistors are designed for easy insertion into a breadboard
+    or through-hole soldering on a PCB.
+
+    They are commonly used to set biasing
+    currents and to divide voltages in electronic circuits.
+
+    You can find them
+    in power supplies to limit inrush current, or in audio circuits as volume controls.
+
+    They
+    are also used to match and load circuits to minimize reflection in signal transmission.
+
+    Resistors
+    help in filtering signals when combined with capacitors or inductors.
+
+    They
+    can protect LEDs and other sensitive components by limiting current.
+
+    In
+    timing circuits, resistors charge and discharge capacitors, creating delays.
+
+    They
+    are essential in analog circuits, often seen in filters, oscillators, and converters.
+
+    Axial
+    resistors can handle higher power ratings than their surface-mount counterparts.
+
+    They
+    dissipate heat through the leads, helping to manage thermal loads in a circuit.
+
+    These
+    resistors are prevalent in educational kits due to their ease of use and identification.'

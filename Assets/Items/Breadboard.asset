@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40d7693a44b8bb043b43aa51aafc3429, type: 3}
+  m_Name: Breadboard
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 21300000, guid: 13d3bdf07e1e41c45a74e1b6424eb3ae, type: 3}
+  prefab: {fileID: 5521585765975701015, guid: 73ac054492709cf428ea505eab23fd05, type: 3}
+  description: 'Breadboard:
+
+    
+
+    A breadboard is a solderless device for
+    prototyping electronic circuits with a grid of holes.
+
+    It''s made of white
+    plastic and contains interconnected metal strips to form a circuit without soldering.
+
+    Components
+    and wires are inserted into the holes to create temporary connections.
+
+    The
+    central area is split into columns for components, with rows reserved for power
+    rails.
+
+    Breadboards are essential in educational environments for teaching
+    circuit design.
+
+    They allow for quick changes in circuit layouts, fostering
+    an experimental approach to learning.
+
+    Breadboards are used in testing circuit
+    ideas before committing to a permanent design.
+
+    They are commonly used by
+    hobbyists for DIY projects and small-scale prototypes.
+
+    In the development
+    phase, engineers use breadboards to debug and refine circuits.
+
+    They are
+    excellent for creating and testing simple circuits, like blinkers and timers.
+
+    Breadboards
+    can be used to prototype computer hardware and microcontroller projects.
+
+    They
+    facilitate easy access to connections for measurement and modification.
+
+    Breadboards
+    are used in robotics for quickly assembling and testing control circuits.
+
+    They
+    are not suitable for high-frequency or high-power circuits due to parasitic capacitance
+    and resistance.
+
+    For permanent use, circuits prototyped on breadboards are
+    often transferred to a printed circuit board (PCB).'

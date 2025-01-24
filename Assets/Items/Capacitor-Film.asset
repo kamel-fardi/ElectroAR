@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40d7693a44b8bb043b43aa51aafc3429, type: 3}
+  m_Name: Capacitor-Film
+  m_EditorClassIdentifier: 
+  id: 3
+  sprite: {fileID: 21300000, guid: 3eaabefe18a790b44be23bbb5a312a66, type: 3}
+  prefab: {fileID: 7587580948399491690, guid: 47106b913f0f12c4d817799db99ed0fa, type: 3}
+  description: 'Capacitor (Film):
+
+
+
+    Film capacitors are made by sandwiching
+    a thin plastic film between two metal plates.
+
+    They are non-polarized and
+    can be used in AC and DC applications.
+
+    Their construction allows for very
+    low inductance and high frequency operation.
+
+    Film capacitors are known for
+    their stability, reliability, and long-term performance.
+
+    They are used in
+    power supply filters to reduce voltage ripple and noise.
+
+    In audio circuits,
+    film capacitors pass audio signals with minimal distortion.
+
+    They are employed
+    in high-frequency applications such as RF coupling and decoupling.
+
+    Film
+    capacitors serve in motor run applications, aiding in efficient operation.
+
+    They
+    are also found in lighting ballasts to improve power factor and reduce harmonic
+    distortion.
+
+    In timing circuits, they maintain accurate oscillation frequencies
+    with resistors.
+
+    Film capacitors are used in snubber circuits to absorb voltage
+    spikes.
+
+    They are preferred in pulse applications, handling high current
+    surges without degradation.
+
+    In power circuits, they are used for energy
+    storage and transfer in resonant converters.
+
+    Their self-healing properties
+    make them suitable for high-voltage applications.
+
+    Film capacitors are integral
+    in renewable energy systems, such as solar inverters and wind turbines.'

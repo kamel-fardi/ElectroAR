@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40d7693a44b8bb043b43aa51aafc3429, type: 3}
+  m_Name: Capacitor-Cylindrical
+  m_EditorClassIdentifier: 
+  id: 2
+  sprite: {fileID: 21300000, guid: 28f10d802ac706d4c857bde0b6fb429f, type: 3}
+  prefab: {fileID: 8658724173619439520, guid: bb68ad3ece16a2f4d98e2dbee2dab94e, type: 3}
+  description: 'Capacitor (Cylindrical Electrolytic):
+
+
+
+    Cylindrical electrolytic
+    capacitors are known for their high capacitance values in a small form factor.
+
+    They
+    are polarized, meaning they have a positive and negative lead that must be correctly
+    oriented in a circuit.
+
+    These capacitors are commonly used in power supply
+    circuits to smooth out voltage and prevent ripple.
+
+    They are crucial in the
+    filtering stage of AC to DC converters, ensuring a stable DC output.
+
+    In
+    audio amplifiers, they couple audio signals between stages while blocking DC.
+
+    They
+    are used in timing circuits, where they charge and discharge at predictable rates.
+
+    Electrolytic
+    capacitors are often found in flashlights and camera flashes as energy storage
+    devices.
+
+    They are used to maintain power for memory or real-time clocks
+    in electronic devices during power loss.
+
+    In motor start circuits, they provide
+    the necessary initial surge of current.
+
+    They assist in voltage regulation,
+    maintaining steady voltages in fluctuating power supplies.
+
+    Electrolytic
+    capacitors can be found in electronic ballasts to help start and run fluorescent
+    lamps.
+
+    In signal processing, they are used for bass filtering due to their
+    large capacitance.
+
+    They are essential in pulse circuits, delivering quick
+    bursts of energy.
+
+    In medical devices, they power defibrillation and other
+    high-energy functions.
+
+    Their high capacitance is leveraged in power backup
+    systems, providing short-term energy storage.'

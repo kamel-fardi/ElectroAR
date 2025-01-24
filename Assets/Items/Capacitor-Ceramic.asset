@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40d7693a44b8bb043b43aa51aafc3429, type: 3}
+  m_Name: Capacitor-Ceramic
+  m_EditorClassIdentifier: 
+  id: 1
+  sprite: {fileID: 21300000, guid: b06d78917215def4589917f3e469a8aa, type: 3}
+  prefab: {fileID: 3397444142515170714, guid: 7da1524c38b8d3341978535fd7743e28, type: 3}
+  description: 'Capacitor (Ceramic):
+
+
+
+    Ceramic capacitors are small, non-polarized
+    components that offer stable capacitance and are used in a wide variety of applications.
+
+    They
+    consist of ceramic material acting as the dielectric, sandwiched between conductive
+    layers.
+
+    These capacitors are known for their high frequency characteristics
+    and low losses.
+
+    They are used in RF applications, providing stable capacitance
+    with minimal parasitics.
+
+    In digital circuits, they act as bypass capacitors
+    to filter out noise from power supplies.
+
+    They serve in audio systems to
+    couple audio signals and block DC interference.
+
+    Ceramic capacitors are used
+    in timing circuits, creating delays when paired with resistors.
+
+    They are
+    suitable for high-speed circuits due to their minimal polarization effects.
+
+    In
+    power supply circuits, they help stabilize voltage and decouple AC from DC components.
+
+    They
+    are essential in oscillators and filters for frequency selection and tuning.
+
+    Ceramic
+    capacitors are used in antenna circuits to tune the reception of specific frequencies.
+
+    They
+    are implemented in sensor circuits to stabilize voltage and filter noise.
+
+    In
+    automotive electronics, they withstand harsh conditions and provide noise suppression.
+
+    They
+    are found in medical devices, aiding in precision filtering and signal processing.
+
+    Ceramic
+    capacitors are also used in microcontrollers and integrated circuits for decoupling
+    purposes.'
